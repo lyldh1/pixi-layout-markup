@@ -1,0 +1,5 @@
+<Container>
+  <Text id="title" text="Plain Container — no Yoga tree" x="36" y="30" />
+  <Graphics x="36" y="90"><RoundRect x="0" y="0" width="280" height="150" radius="18" /><Fill color="#7c3aed" /><Stroke color="#c4b5fd" width="4" /></Graphics>
+  <Graphics x="350" y="90"><Circle x="75" y="75" radius="72" /><Fill color="#db2777" /><Stroke color="#fbcfe8" width="4" /></Graphics>
+</Container>

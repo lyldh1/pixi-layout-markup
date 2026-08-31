@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pixi Layout Markup"
+  short_description: "构建、接入和维护类型安全的 PixiJS XML 布局项目"
+  default_prompt: "Use $pixi-layout-markup to build a typed PixiJS UI from XML markup."

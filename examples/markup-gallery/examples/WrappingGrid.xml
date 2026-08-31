@@ -1,0 +1,10 @@
+<LayoutContainer width="100%" height="100%" padding="30" gap="16" flexDirection="column">
+  <Text id="heading" text="Responsive wrapping grid" layout="true" />
+  <LayoutContainer width="100%" flex="1" gap="12" flexDirection="row" flexWrap="wrap" alignContent="center" justifyContent="center">
+    <LayoutContainer width="140" height="100" justifyContent="center" alignItems="center" backgroundColor="#0f766e" borderRadius="12"><Text id="labelOne" text="Alpha" layout="true" /></LayoutContainer>
+    <LayoutContainer width="140" height="100" justifyContent="center" alignItems="center" backgroundColor="#0369a1" borderRadius="12"><Text id="labelTwo" text="Beta" layout="true" /></LayoutContainer>
+    <LayoutContainer width="140" height="100" justifyContent="center" alignItems="center" backgroundColor="#6d28d9" borderRadius="12"><Text id="labelThree" text="Gamma" layout="true" /></LayoutContainer>
+    <LayoutContainer width="140" height="100" justifyContent="center" alignItems="center" backgroundColor="#be123c" borderRadius="12"><Text id="labelFour" text="Delta" layout="true" /></LayoutContainer>
+    <LayoutContainer width="140" height="100" justifyContent="center" alignItems="center" backgroundColor="#b45309" borderRadius="12"><Text id="labelFive" text="Epsilon" layout="true" /></LayoutContainer>
+  </LayoutContainer>
+</LayoutContainer>

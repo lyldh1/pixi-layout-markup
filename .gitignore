@@ -1,0 +1,4 @@
+.pixi-layout-markup/
+dist-example/
+dist-gallery/
+*.tgz

@@ -1,0 +1,14 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "rootDir": ".",
+    "baseUrl": "../..",
+    "paths": {
+      "pixi-layout-markup": ["dist/index.d.ts"],
+      "pixi-layout-markup/*": ["dist/*"]
+    },
+    "noEmit": true,
+    "types": ["vite/client"]
+  },
+  "include": ["./**/*.ts"]
+}
