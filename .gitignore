@@ -2,3 +2,4 @@
 dist-example/
 dist-gallery/
 *.tgz
+/node_modules
